@@ -1,0 +1,19 @@
+{
+  "name": "aula2",
+  "version": "1.0.0",
+  "description": "meu primeiro app nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julialeandro1/aula2.git"
+  },
+  "author": "Julia Leandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julialeandro1/aula2/issues"
+  },
+  "homepage": "https://github.com/julialeandro1/aula2#readme"
+}
